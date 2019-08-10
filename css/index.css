@@ -1,0 +1,277 @@
+/* CSS Document */
+a:link {
+	color: #0000FF;
+}
+a:visited {
+	color: #660000;
+}
+a:hover {
+	color: #CC0000;
+}
+a:active {
+	color: #CC99CC;
+}
+.Main1 {
+	background-color:#EFDBCD;
+	background-image:url(../images/one.png);
+	background-attachment:fixed;
+	background-repeat:repeat-x;
+	background-color:#E9F3FC;
+	margin: 0;
+	padding: 0;
+}
+.Main2 {
+	background-color:#EFDBCD;
+	background-image:url(../images/two.png);
+	background-attachment:fixed;
+	background-repeat:repeat-x;
+	background-color:#E9F3FC;
+	margin: 0;
+	padding: 0;
+}
+
+.Main3 {
+	background-color:#EFDBCD;
+	background-image:url(../images/three.png);
+	background-attachment:fixed;
+	background-repeat:repeat-x;
+	background-color:#E9F3FC;
+	margin: 0;
+	padding: 0;
+}
+
+.Main4 {
+	background-color:#EFDBCD;
+	background-image:url(../images/four.png);
+	background-attachment:fixed;
+	background-repeat:repeat-x;
+	background-color:#E9F3FC;
+	margin: 0;
+	padding: 0;
+}
+
+.Main5 {
+	background-color:#EFDBCD;
+	background-image:url(../images/five.png);
+	background-attachment:fixed;
+	background-repeat:repeat-x;
+	background-color:#E9F3FC;
+	margin: 0;
+	padding: 0;
+}
+
+.Main6 {
+	background-color:#EFDBCD;
+	background-image:url(../images/six.png);
+	background-attachment:fixed;
+	background-repeat:repeat-x;
+	background-color:#E9F3FC;
+	margin: 0;
+	padding: 0;
+}
+
+.Main7 {
+	background-color:#EFDBCD;
+	background-image:url(../images/seven.png);
+	background-attachment:fixed;
+	background-repeat:repeat-x;
+	background-color:#E9F3FC;
+	margin: 0;
+	padding: 0;
+}
+
+.Main8 {
+	background-color:#EFDBCD;
+	background-image:url(../images/eight.png);
+	background-attachment:fixed;
+	background-repeat:repeat-x;
+	background-color:#E9F3FC;
+	margin: 0;
+	padding: 0;
+}
+
+.Main9 {
+	background-color:#EFDBCD;
+	background-image:url(../images/nine.png);
+	background-attachment:fixed;
+	background-repeat:repeat-x;
+	background-color:#E9F3FC;
+	margin: 0;
+	padding: 0;
+}
+
+.Main10 {
+	background-color:#EFDBCD;
+	background-image:url(../images/ten.png);
+	background-attachment:fixed;
+	background-repeat:repeat-x;
+	background-color:#E9F3FC;
+	margin: 0;
+	padding: 0;
+}
+
+.Square
+{
+ border: solid 1px;
+ border-color:#666666;
+ position:relative;
+ width:800px;
+ height:780px;
+}
+.TopBorder
+{
+border: hidden;
+position:relative;
+height:50px;
+width:inherit;
+padding: 0px 0px 0px 0px;
+color:#FFFFFF;
+font-size:36px;
+font-weight:bolder;
+text-align:center;
+}
+.UpperBox1
+{
+border: hidden;
+background-image:url(../IMAGES/logo_one.png);
+background-repeat:no-repeat;
+position:realative;
+padding-top:90px;
+display:inherit;
+}
+.UpperBox2
+{
+border: hidden;
+background-image:url(../IMAGES/logo_two.png);
+background-repeat:no-repeat;
+position:realative;
+padding-top:90px;
+display:inherit;
+}
+.UpperBox3
+{
+border: hidden;
+background-image:url(../IMAGES/logo_three.png);
+background-repeat:no-repeat;
+position:realative;
+padding-top:90px;
+display:inherit;
+}
+.UpperBox4
+{
+border: hidden;
+background-image:url(../IMAGES/logo_four.png);
+background-repeat:no-repeat;
+position:realative;
+padding-top:90px;
+display:inherit;
+}
+.UpperBox5
+{
+border: hidden;
+background-image:url(../IMAGES/logo_five.png);
+background-repeat:no-repeat;
+position:realative;
+padding-top:90px;
+display:inherit;
+}
+.UpperBox6
+{
+border: hidden;
+background-image:url(../IMAGES/logo_six.png);
+background-repeat:no-repeat;
+position:realative;
+padding-top:90px;
+display:inherit;
+}
+.UpperBox7
+{
+border: hidden;
+background-image:url(../IMAGES/logo_seven.png);
+background-repeat:no-repeat;
+position:realative;
+padding-top:90px;
+display:inherit;
+}
+.UpperBox8
+{
+border: hidden;
+background-image:url(../IMAGES/logo_eight.png);
+background-repeat:no-repeat;
+position:realative;
+padding-top:90px;
+display:inherit;
+}
+.UpperBox9
+{
+border: hidden;
+background-image:url(../IMAGES/logo_nine.png);
+background-repeat:no-repeat;
+position:realative;
+padding-top:90px;
+display:inherit;
+}
+.UpperBox10
+{
+border: hidden;
+background-image:url(../IMAGES/logo_ten.png);
+background-repeat:no-repeat;
+position:realative;
+padding-top:90px;
+display:inherit;
+}
+
+.Display
+{
+border-top: solid #666666;
+height:650px;
+position:relative;
+padding-top:20px;
+padding-bottom:20px;
+}
+.DivTv
+{
+border:solid 1px;
+border-color:#FFFFFF;
+background-color:#FFFFFF;
+color:#333333;
+display:inline;
+font:Arial, Helvetica, sans-serif;
+font-size:16px;
+letter-spacing:normal;
+text-transform:capitalize;
+float:left;
+margin-left:10px;
+height:650px;
+width:740px;
+text-align:justify;
+padding:0px 0px 0px 0px;
+line-height:20px;
+word-spacing:2px;
+padding-left:20px;
+padding-right:20px;
+}
+
+.DivTvScroll
+{
+border:solid 1px;
+border-color:#FFFFFF;
+background-color:#FFFFFF;
+color:#333333;
+display:inline;
+font:Arial, Helvetica, sans-serif;
+font-size:16px;
+letter-spacing:normal;
+text-transform:capitalize;
+float:left;
+margin-left:10px;
+height:650px;
+width:740px;
+overflow: scroll;
+text-align:justify;
+padding:0px 0px 0px 0px;
+line-height:20px;
+word-spacing:2px;
+padding-left:20px;
+padding-right:20px;
+}

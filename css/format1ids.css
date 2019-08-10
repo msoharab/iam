@@ -1,0 +1,13 @@
+/* CSS Document */
+#MainPage
+{
+border:hidden; width:800px; position:absolute;left:0px; top:0px;
+}
+.A4
+{
+border:solid 1px; width:800px; height:1121px;left:0px; top:0px;
+}
+.DivSheet
+{
+border:hidden; width:706px;margin-left:68px; margin-top:53px; margin-right:23px; margin-bottom:75px;
+}
